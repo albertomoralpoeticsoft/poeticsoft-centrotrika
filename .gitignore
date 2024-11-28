@@ -4,4 +4,4 @@ package-lock.json
 .zip
 astra
 .vscode
-
+plugin.code-workspace

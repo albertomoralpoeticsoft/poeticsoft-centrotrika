@@ -7,36 +7,6 @@ const pluginname = 'poeticsoft-centrotrika'
 const destdir = __dirname + '/' + pluginname
 const pluginplublic = '/wp-content/plugins/' + pluginname
 
-/*
-
-Examples of automate compilation with .bat files:
-
-from this folder:
-
-block blockname -> compiles [blockname] with watch and delay livereload time
-allblocksprod -> compiles all blocks in prod mode
-
-*/
-
-/*
-https://gator1306.hostgator.com:2083/
-mayeuta
-#7mBvYVGzc6weSB9gx
-
-// SERVER
-
-Server gator3113.hostgator.com 
-Username mayeuta
-IP Address 174.37.190.158
-Nameserver 1 ns6225.hostgator.com
-Nameserver 2 ns6226.hostgator.com
-
-// biomayeutika.org
-info@mayeutika.org
-mRzQl2#NEXFd*qrA
-
-*/
-
 module.exports = env => {  
 
   console.log(env)
