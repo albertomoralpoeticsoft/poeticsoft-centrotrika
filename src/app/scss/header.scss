@@ -1,0 +1,11 @@
+body:not(.logged-in.admin-bar) {
+  
+  #ast-desktop-header,
+  #ast-mobile-header {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+}
